@@ -1,4 +1,4 @@
-#📌 Sistema de Gerenciamento Financeiro
+# Sistema de Gerenciamento Financeiro
 
 Este projeto é um Sistema de Gerenciamento Financeiro que permite criar contas bancárias, transferir saldo, registrar movimentações financeiras e visualizar gráficos de saldo por conta.
 
